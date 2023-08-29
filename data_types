@@ -1,0 +1,24 @@
+package dataTypes;
+
+public class Datatypes {
+    public static void main(String[] args) {
+        
+        int x=2;
+        int y=5;
+        int s=x+y;
+        //float a=9.5f;
+        double b=8.5;
+        double a=9.5;
+        double z=a-b;
+        
+        char c='v';
+        char d='f';
+        boolean g=true;
+        System.out.println(g);
+        System.out.println(c);
+        System.out.println(s);
+        System.out.println(z);
+    }
+    
+
+}
