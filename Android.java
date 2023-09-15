@@ -1,10 +1,11 @@
-package abstarction;
+package interference;
 
-public class Android extends Mobile{
+public class Android implements Mobile{
 
-	public void doubletap(){
+	@Override
+	public void doubletap() {
 		// TODO Auto-generated method stub
-		System.out.println("Android Doubletap works");
+		System.out.println("Android double tap works");
 	}
 	
 }
