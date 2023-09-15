@@ -1,7 +1,12 @@
-package abstarction;
+package interference;
 
-public class Ios extends Mobile{
+public class Ios implements Mobile{
+
+	@Override
 	public void doubletap() {
-		System.out.println("Ios Doubletap works");
+		// TODO Auto-generated method stub
+		System.out.println("Ios Double tap works");
 	}
+	
+
 }
