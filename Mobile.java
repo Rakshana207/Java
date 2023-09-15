@@ -1,8 +1,5 @@
-package abstarction;
+package interference;
 
-public abstract class Mobile {
-	public abstract void doubletap();
-	{
-		
+public interface Mobile {
+	void doubletap();
 	}
-}
