@@ -7,14 +7,14 @@ public class Scanner_input {
 
     {
 
-        String y=input.nextLine();
+        String Y=input.nextLine();
         String temp="";
-        for(int i=0;i<y.length();i++)
+        for(int i=0;i<Y.length();i++)
         {
-            temp=y.charAt(i)+temp;
+            temp=Y.charAt(i)+temp;
         }
         System.out.println(temp);
-        System.out.println(y);
+        System.out.println(Y);
 
     }
 
