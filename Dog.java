@@ -2,6 +2,6 @@ package inheritance;
 
 public class Dog extends Animal{
 	public void WhoAmI() {
-		System.out.println("I am a Dog");
+		System.out.println("I'm a Dog");
 	}
 }
