@@ -9,7 +9,7 @@ public class Datatypes {
         //float a=9.5f;
         double b=8.5;
         double a=9.5;
-        double Z=a-b;
+        double z=a-b;
         
         char c='v';
         char d='f';
@@ -17,7 +17,7 @@ public class Datatypes {
         System.out.println(g);
         System.out.println(c);
         System.out.println(s);
-        System.out.println(Z);
+        System.out.println(z);
     }
     
 
