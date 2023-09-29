@@ -8,8 +8,8 @@ public class String_builder {
 		        StringBuilder sb1=new StringBuilder("I");
 		        System.out.println(sb1);
 		        
-		        sb1.append(" like");
-		        sb1.append(" java");
+		        sb1.append(" Like");
+		        sb1.append(" Java");
 		        
 		        System.out.println(sb1);
 		        
